@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Bespoke Automation",
+        "description": "Orchestrating seamless enterprise flows that strip away repetitive noise, allowing your team to focus on high-value creativity.",
+        "icon": "Zap"
+    },
+    {
+        "title": "Architectural Design",
+        "description": "Engineering robust digital infrastructures based on the Yantra standard — precision geometry meeting functional excellence.",
+        "icon": "Layers"
+    },
+    {
+        "title": "Strategic Consultancy",
+        "description": "Attuned listening to your unique operational 'beat' to provide expert guidance on long-term stability and optimization.",
+        "icon": "MessageSquare"
+    }
+]
