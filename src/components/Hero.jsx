@@ -31,7 +31,7 @@ const Hero = () => {
           >
             <div className="glass-orbit">
               <div className="orbit-core">
-                <img src="/docs/square.png" alt="Optiyan Emblem" className="hero-icon animate-flow" />
+                <img src="/docs/square.png" alt="Optiyan Emblem" className="hero-icon" />
                 <div className="core-glow" />
               </div>
               <div className="ring ring-1" />
